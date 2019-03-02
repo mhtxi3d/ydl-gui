@@ -1,21 +1,11 @@
-/*
-  ==============================================================================
-
-    This file was auto-generated!
-
-    It contains the basic startup code for a JUCE application.
-
-  ==============================================================================
-*/
-
+/**=============================================================================+
+ * file name  : Main.cpp
+ * created    : 2019.03.03
+ * author     : sam
+ * copyright  : Copyright(C) I3D Technology Inc. All rights reserved.
++=============================================================================*/
 #include "../JuceLibraryCode/JuceHeader.h"
 
-//==============================================================================
-int main (int argc, char* argv[])
-{
+#define CATCH_CONFIG_MAIN
+#include <catch.hpp>
 
-    // ..your code goes here!
-
-
-    return 0;
-}
